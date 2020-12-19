@@ -30,7 +30,6 @@ void setup() {
     pinMode(A9,INPUT);
     Serial.begin(9600);
     // for buzzer
-    // put your setup code here, to run once:
     
 
 }
@@ -159,7 +158,5 @@ if(flag==10)
     
     
       
-
-  // put your main code here, to run repeatedly:
 
 }
